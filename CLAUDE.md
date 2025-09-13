@@ -1,0 +1,8 @@
+- This Repo is a collection of several helper utilities and scripts
+- The helper are CLI only
+- The helper must work without installing any additional dependencies on macOS and common Linux distributions.
+- The only exception is the GitHub CLI
+- All Helpers must have a comprehensive documentation
+- All helper must be "production quality" with error handling and a "help" option
+- every helper is a seperate folder
+- This repo is MIT licensed
